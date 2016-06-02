@@ -2,7 +2,7 @@
 
 src/*.map
 src/*.js
+bundle.*
 
 node_modules/
 typings/
-tsd.json
