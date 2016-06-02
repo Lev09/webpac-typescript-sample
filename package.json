@@ -1,0 +1,17 @@
+{
+  "name": "typescript-webpack",
+  "version": "1.0.0",
+  "description": "Sample of webpack and typescript",
+  "dependencies": {
+    "jquery": "^2.2.4",
+    "ts-loader": "^0.8.2",
+    "tsd": "^0.6.5",
+    "typescript": "^1.8.10",
+    "webpack": "^1.13.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "webpack"
+  }
+}
