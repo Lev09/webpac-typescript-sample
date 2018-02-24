@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Sample of webpack and typescript",
   "dependencies": {
-    "jquery": "^2.2.4",
+    "jquery": "^3.0.0",
     "ts-loader": "^0.8.2",
     "typescript": "^1.8.10",
     "typings": "^1.0.4",
